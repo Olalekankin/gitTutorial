@@ -1,0 +1,32 @@
+.container{
+ width: 100vw;
+ height: 70vh;
+ background-color: rgb(197, 111, 6);
+ display: flex;
+ flex-direction: row-reverse;
+ gap: 10px;
+}
+
+.box {
+ width: 300px;
+ height: 150px;
+ background-color: rgb(13, 85, 13);
+
+}
+
+.one {
+ background-color: cadetblue;
+}
+
+.two {
+ background-color: rgb(127, 2, 96);
+}
+
+.three {
+ background-color: crimson;
+}
+
+.four {
+ background-color: deepskyblue;
+}
+
